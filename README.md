@@ -88,7 +88,8 @@ Merged benefit tags to simplify CSS file, example:
 
 ```
 ## Final Page
-![Alt text](assets\images\Final_Page_Screenshot.png?raw=true "Title")
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
 The project is hosted in GitHub at the following repository: https://github.com/mariadls/Code_Refractor_Mdls.git
 
 You can find the Deployed Page here: https://mariadls.github.io/Code_Refractor_Mdls/
