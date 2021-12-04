@@ -30,6 +30,7 @@ Changed title to "Horiseon"
 Changed <div> to <header> tag
 Changed <div> for <nav> tag
 Changed <div> class for <content> tag 
+
 Added empty lines to make HTML easier to read
 
 Changed <div id> to <section id>
@@ -96,3 +97,4 @@ You can find the Deployed Page here: https://mariadls.github.io/Code_Refractor_M
 
 ## References 
 [HTML Accessibility](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML")
+[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet')
