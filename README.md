@@ -37,8 +37,8 @@ Added desicprive alt propertives to all the images
 Removed </img> tag
 
 Changed <div> class in footer to <footer> tag
-
-## Modifications to the CSS file
+  
+## Modifications to CSS File 
 Descriptive comments were added to the css file 
 /* General Styles */
 /* ==========================	 
