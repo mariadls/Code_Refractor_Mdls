@@ -12,7 +12,8 @@ Refractor an existing page to make it more accessible.
 # Modifications to HTMl and CSS files 
 
 ## Modifications to HTML file 
-``
+
+```
 Desctiptive Comments were added 
 <!--Start Navigation/Header-->
 <!--End Navigation-->	 
@@ -24,4 +25,4 @@ Desctiptive Comments were added
 <!--Benefits Section End-->	  
 <!--Footer Start-->
 <!--Footer End-->
-``
+```
