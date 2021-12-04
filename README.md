@@ -40,3 +40,50 @@ Removed </img> tag
 
 Changed <div> class in footer to <footer> tag
 ```
+
+## Modifications to CSS File
+```
+Descriptive comments were added to the css file 
+/* General Styles */
+/* ==========================	 
+  
+Header and Navigation Styles	 
+  
+============================= */
+/* Header Style Start */
+/* Header Style End */	   
+/* Main Content Styles Without Benefits */
+/* Main Content Styles End */	 
+/* ------- Additional content ------- */
+/* Footer Style Start */
+/* Footer Stye End */
+
+Did not find that any CSS rules could be deleted, only modified. 
+Deleted . for classes 
+Added # for elements with id attributes 
+Changed <header div> for <header nav> and associated <div> tags in the <header> tag
+
+Merged benefit tags to simplify CSS file, example: 
+.benefit-lead {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+.benefit-brand {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+.benefit-cost {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+ merged to: 
+#benefit-lead,
+#benefit-brand,
+#benefit-cost {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+```
