@@ -96,3 +96,4 @@ You can find the Deployed Page here: https://mariadls.github.io/Code_Refractor_M
 
 ## References 
 [HTML Accessibility] (https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML)
+[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
