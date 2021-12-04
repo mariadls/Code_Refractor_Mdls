@@ -1,6 +1,7 @@
 # Code_Refractor_Mdls
 
 ## Project Description
+Refractor an existing page to make it more accessible. 
 
 ## Contents
 
