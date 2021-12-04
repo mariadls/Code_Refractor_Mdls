@@ -25,4 +25,18 @@ Desctiptive Comments were added
 <!--Benefits Section End-->	  
 <!--Footer Start-->
 <!--Footer End-->
+
+Changed title to "Horiseon"
+Changed <div> to <header> tag
+Changed <div> for <nav> tag
+Changed <div> class for <content> tag 
+Added empty lines to make HTML easier to read
+
+Changed <div id> to <section id>
+Deleted image div classes in <div id> tags
+Changed <div id> to <section id> in the Benefits section 
+Added desicprive alt propertives to all the images 
+Removed </img> tag
+
+Changed <div> class in footer to <footer> tag
 ```
