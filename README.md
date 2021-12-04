@@ -99,3 +99,8 @@ You can find the Deployed Page here: https://mariadls.github.io/Code_Refractor_M
 [HTML Accessibility](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML")
 
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet')
+
+## Contributors 
+Made following guidelines from MSU Coding Bootcamp Challenge One: Code Refractor Guidlines
+
+Made by Maria De Los Santos
