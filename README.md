@@ -95,5 +95,4 @@ The project is hosted in GitHub at the following repository: https://github.com/
 You can find the Deployed Page here: https://mariadls.github.io/Code_Refractor_Mdls/
 
 ## References 
-[HTML Accessibility] (https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML")
-[HTML Accessibility](https://www.google.com "Google's Homepage")
+[HTML Accessibility](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML")
