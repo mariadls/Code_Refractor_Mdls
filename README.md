@@ -3,11 +3,13 @@
 ## Project Description
 Refractor an existing page to make it more accessible. 
 
+![Final Page Screenshot](https://github.com/mariadls/Code_Refractor_Mdls/blob/main/assets/images/Final_Page_Screenshot.png?raw=true)
+
 ## Contents
 
 1.User Story and Acceptance Criteria  
 2. Modifications Made to Provided Code
-3. Deployed Page  
+3. Outputs  
 4. Contributions
 
 # User Story and Acceptance Criteria  
@@ -118,8 +120,7 @@ Merged benefit tags to simplify CSS file, example:
 }
 
 ```
-## Final Page
-![Final Page Screenshot](https://github.com/mariadls/Code_Refractor_Mdls/blob/main/assets/images/Final_Page_Screenshot.png?raw=true)
+## Outputs
 
 The project is hosted in GitHub at the following repository: https://github.com/mariadls/Code_Refractor_Mdls.git
 
