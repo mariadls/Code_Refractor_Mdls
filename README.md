@@ -1,16 +1,17 @@
 # Code_Refractor_Mdls
 
+## Contents
+ 
+1.Project Description
+2.User Story and Acceptance Criteria  
+3.Modifications Made to Provided Code 
+4.Outputs  
+5.Contributions
+
 ## Project Description
 Refractor an existing page to make it more accessible. 
 
 ![Final Page Screenshot](https://github.com/mariadls/Code_Refractor_Mdls/blob/main/assets/images/Final_Page_Screenshot.png?raw=true)
-
-## Contents
-
-1.User Story and Acceptance Criteria  
-2. Modifications Made to Provided Code
-3. Outputs  
-4. Contributions
 
 # User Story and Acceptance Criteria  
 ## User Story
