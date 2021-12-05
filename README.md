@@ -5,7 +5,8 @@
 2. User Story and Acceptance Criteria 
 3. Modifications to Provided Code
 4. Outputs 
-5. Contributions
+5. References
+6. Contributions
 
 ## Project Description
 Refractor an existing page to make it more accessible. 
