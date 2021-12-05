@@ -6,8 +6,6 @@
 3. Modifications to Provided Code
 4. Outputs 
 5. Contributions
-6. Project Description
-
 
 ## Project Description
 Refractor an existing page to make it more accessible. 
