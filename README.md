@@ -121,18 +121,18 @@ Merged benefit tags to simplify CSS file, example:
 }
 
 ```
-## Outputs
+# Outputs
 
 The project is hosted in GitHub at the following repository: https://github.com/mariadls/Code_Refractor_Mdls.git
 
 You can find the Deployed Page here: https://mariadls.github.io/Code_Refractor_Mdls/
 
-## References 
+# References 
 [HTML Accessibility](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML")
 
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet')
 
-## Contributors 
+# Contributors 
 Made following guidelines from MSU Coding Bootcamp Challenge One: Code Refractor Guidlines
 
 Made by Maria De Los Santos
